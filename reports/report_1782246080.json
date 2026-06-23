@@ -1,0 +1,227 @@
+{
+  "posture": {
+    "recordingTime": 21,
+    "secondBySecond": {
+      "0": {
+        "dominantPosture": "okay",
+        "confidenceAvg": "0.58",
+        "samples": 8,
+        "postureBreakdown": {
+          "good": 0,
+          "okay": 100,
+          "bad": 0
+        }
+      },
+      "1": {
+        "dominantPosture": "bad",
+        "confidenceAvg": "0.59",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 0,
+          "okay": 14,
+          "bad": 86
+        }
+      },
+      "2": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.59",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 86,
+          "okay": 14,
+          "bad": 0
+        }
+      },
+      "3": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 6,
+        "postureBreakdown": {
+          "good": 67,
+          "okay": 33,
+          "bad": 0
+        }
+      },
+      "4": {
+        "dominantPosture": "okay",
+        "confidenceAvg": "0.59",
+        "samples": 9,
+        "postureBreakdown": {
+          "good": 0,
+          "okay": 56,
+          "bad": 44
+        }
+      },
+      "5": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.59",
+        "samples": 8,
+        "postureBreakdown": {
+          "good": 88,
+          "okay": 13,
+          "bad": 0
+        }
+      },
+      "6": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 9,
+        "postureBreakdown": {
+          "good": 100,
+          "okay": 0,
+          "bad": 0
+        }
+      },
+      "7": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 8,
+        "postureBreakdown": {
+          "good": 63,
+          "okay": 38,
+          "bad": 0
+        }
+      },
+      "8": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 8,
+        "postureBreakdown": {
+          "good": 88,
+          "okay": 13,
+          "bad": 0
+        }
+      },
+      "9": {
+        "dominantPosture": "okay",
+        "confidenceAvg": "0.60",
+        "samples": 8,
+        "postureBreakdown": {
+          "good": 13,
+          "okay": 88,
+          "bad": 0
+        }
+      },
+      "10": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 71,
+          "okay": 29,
+          "bad": 0
+        }
+      },
+      "11": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 71,
+          "okay": 29,
+          "bad": 0
+        }
+      },
+      "12": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 71,
+          "okay": 29,
+          "bad": 0
+        }
+      },
+      "13": {
+        "dominantPosture": "okay",
+        "confidenceAvg": "0.60",
+        "samples": 6,
+        "postureBreakdown": {
+          "good": 33,
+          "okay": 67,
+          "bad": 0
+        }
+      },
+      "14": {
+        "dominantPosture": "okay",
+        "confidenceAvg": "0.60",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 14,
+          "okay": 86,
+          "bad": 0
+        }
+      },
+      "15": {
+        "dominantPosture": "okay",
+        "confidenceAvg": "0.60",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 0,
+          "okay": 100,
+          "bad": 0
+        }
+      },
+      "16": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 86,
+          "okay": 14,
+          "bad": 0
+        }
+      },
+      "17": {
+        "dominantPosture": "okay",
+        "confidenceAvg": "0.60",
+        "samples": 8,
+        "postureBreakdown": {
+          "good": 13,
+          "okay": 50,
+          "bad": 38
+        }
+      },
+      "18": {
+        "dominantPosture": "good",
+        "confidenceAvg": "0.60",
+        "samples": 8,
+        "postureBreakdown": {
+          "good": 50,
+          "okay": 25,
+          "bad": 25
+        }
+      },
+      "19": {
+        "dominantPosture": "bad",
+        "confidenceAvg": "0.60",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 0,
+          "okay": 14,
+          "bad": 86
+        }
+      },
+      "20": {
+        "dominantPosture": "bad",
+        "confidenceAvg": "0.59",
+        "samples": 7,
+        "postureBreakdown": {
+          "good": 0,
+          "okay": 0,
+          "bad": 100
+        }
+      }
+    },
+    "summary": {
+      "totalTime": 21,
+      "goodTime": 11,
+      "okayTime": 7,
+      "badTime": 3,
+      "goodPercentage": 52,
+      "okayPercentage": 33,
+      "badPercentage": 14,
+      "averageConfidence": "0.60"
+    }
+  }
+}
